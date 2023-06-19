@@ -7,4 +7,4 @@ designed this network using a directed graph. Your task is to measure whether th
 can be a tree. After some research, you found that for a directed graph to be a tree, it must have
 2
 one less number of edges than the number of vertices, it must be connected, and there must be no
-cycles in the graph. Now prove to your team leader that you can solve this problem
+cycles in the graph.
